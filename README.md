@@ -42,27 +42,31 @@ switch2.
 Direct connection: CIRCUIT DIAGRAM: 
 
 
-<img width="513" height="641" alt="image" src="https://github.com/user-attachments/assets/3c6d9df7-9398-4658-bd5b-e5dec1912bfe" />
-<img width="515" height="274" alt="image" src="https://github.com/user-attachments/assets/dc49365f-2013-4cc7-84a7-995d70b85964" />
-<img width="515" height="267" alt="image" src="https://github.com/user-attachments/assets/22be0451-23f1-46b8-9fe3-6cf422d5eac1" />
+<img width="270" height="292" alt="image" src="https://github.com/user-attachments/assets/9d0e5310-75dd-4240-aacf-6731da31a902" />
+
+<img width="215" height="146" alt="image" src="https://github.com/user-attachments/assets/56487a58-89a8-4bdb-9adc-053358fc24b9" />
 
 Tabulation:1
 
+<img width="296" height="131" alt="image" src="https://github.com/user-attachments/assets/e75b372d-5137-49c9-ab2e-9369e4290f62" />
 
-<img width="747" height="274" alt="image" src="https://github.com/user-attachments/assets/e4e6f1d0-ceed-4e6c-8ca0-007f42d7ba99" />
 
 
 Cross connection: CIRCUIT DIAGRAM:
 
 
-<img width="473" height="622" alt="image" src="https://github.com/user-attachments/assets/8714a957-319e-438a-8c4c-93d28f29aeea" />
-<img width="519" height="274" alt="image" src="https://github.com/user-attachments/assets/d7265da3-5a81-4ceb-ab8f-97241b6136b3" />
-<img width="516" height="272" alt="image" src="https://github.com/user-attachments/assets/652d3605-1fc1-44fb-9040-17d96508ea42" />
+<img width="284" height="289" alt="image" src="https://github.com/user-attachments/assets/13f6c765-10d8-4121-9d3f-17b190ab80b8" />
+
+<img width="195" height="153" alt="image" src="https://github.com/user-attachments/assets/601f1014-0ba7-4dfe-a877-dbff23a1e60b" />
+
 
 Tabulation:2
 
 
-<img width="516" height="172" alt="image" src="https://github.com/user-attachments/assets/823fd6e2-41a5-439c-a650-e1bd93e986c4" />
+<img width="283" height="178" alt="image" src="https://github.com/user-attachments/assets/ac785932-b98b-44c8-9771-d855d2d51971" />
+
+
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
